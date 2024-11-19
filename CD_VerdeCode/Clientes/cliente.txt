@@ -1,0 +1,42 @@
+Nome: Mikael Brito
+Endereco: Rua Assis
+Email: mikael@hotmail.com
+CPF: 46800855849
+Telefone: 14998258066
+Data: 04/11/2004
+--------------------
+Nome: Angelo
+Endereco: Rua Meridiano
+Email: angelo@gmail.com
+CPF: 46800855844
+Telefone: 14998258065
+Data: 07/11/2024
+--------------------
+Nome: Rian Eduardo Alves
+Endereco: Rua A
+Email: Rian@outlook.com
+CPF: 46800855847
+Telefone: 14998258065
+Data: 07/11/2024
+--------------------
+Nome: Ruan
+Endereco: Rua J
+Email: ruan@hotmail.com
+CPF: 12345678911
+Telefone: 14998258065
+Data: 07/11/2024
+--------------------
+Nome: Patrick
+Endereco: Fenda do Biquini
+Email: patrick@hotmail.com
+CPF: 98765432100
+Telefone: 14998258065
+Data: 07/11/2024
+--------------------
+Nome: Bob Esponja
+Endereco: Fenda do Biquini
+Email: bobSponja@gmail.com
+CPF: 12345678955
+Telefone: 14998258065
+Data: 07/11/2024
+--------------------

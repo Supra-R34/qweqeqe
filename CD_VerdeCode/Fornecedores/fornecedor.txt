@@ -1,0 +1,32 @@
+ID: 1
+Nome: Lucas
+Endereco: Rua B
+Cidade: Xique Xique
+CEP: 19940-422
+Data: 07/11/2024
+CNPJ: 12345678000001
+--------------------
+ID: 2
+Nome: Juliano
+Endereco: Rua Brasilandia 
+Cidade: Assis
+CEP: 19940-430
+Data: 07/11/2024
+CNPJ: 23456789000112
+--------------------
+ID: 3
+Nome: Renato
+Endereco: Rua Capitao Assis
+Cidade: Assis
+CEP: 19940-852
+Data: 07/11/2024
+CNPJ: 23456789000110
+--------------------
+ID: 4
+Nome: Rodrigo
+Endereco: Rua machado
+Cidade: Campos do Jordao
+CEP: 19940-555
+Data: 07/11/2024
+CNPJ: 12345678000005
+--------------------

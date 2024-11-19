@@ -1,0 +1,24 @@
+Produto: Tomate, Quantidade: 3, Preco Unitario: 7.00, Total: 21.00, Data: 08-10-2024, Hora: 22:14
+Produto: Pimentao, Quantidade: 1, Preco Unitario: 5.50, Total: 5.50, Data: 08-10-2024, Hora: 23:14
+Produto: Cenoura, Quantidade: 2, Preco Unitario: 4.00, Total: 8.00, Data: 08-10-2024, Hora: 23:14
+Produto: Brocolis, Quantidade: 5, Preco Unitario: 6.00, Total: 30.00, Data: 08-10-2024, Hora: 29:14
+Produto: Alface, Quantidade: 1, Preco Unitario: 2.00, Total: 2.00, Data: 08-10-2024, Hora: 10:15
+Produto: Brocolis, Quantidade: 2, Preco Unitario: 6.00, Total: 12.00, Data: 08-10-2024, Hora: 15:55
+Produto: Tomate, Quantidade: 4, Preco Unitario: 7.00, Total: 28.00, Data: 08-10-2024, Hora: 15:56
+Produto: Espinafre, Quantidade: 6, Preco Unitario: 3.00, Total: 18.00, Data: 08-10-2024, Hora: 17:43
+Produto: Tomate, Quantidade: 8, Preco Unitario: 7.00, Total: 56.00, Data: 17-10-2024, Hora: 11:59
+Produto: Espinafre, Quantidade: 1, Preco Unitario: 3.00, Total: 3.00, Data: 17-10-2024, Hora: 12:10
+Produto: Brocolis, Quantidade: 1, Preco Unitario: 6.00, Total: 6.00, Data: 17-10-2024, Hora: 12:10
+Produto: Alface, Quantidade: 1, Preco Unitario: 2.00, Total: 2.00, Data: 17-10-2024, Hora: 12:11
+Produto: Alface, Quantidade: 3, Preco Unitario: 2.00, Total: 6.00, Data: 24-10-2024, Hora: 20:23
+Produto: Pimentao, Quantidade: 5, Preco Unitario: 5.50, Total: 27.50, Data: 24-10-2024, Hora: 20:24
+Produto: Tomate, Quantidade: 5, Preco Unitario: 7.00, Total: 35.00, Data: 07-11-2024, Hora: 15:47
+Produto: Cenoura, Quantidade: 4, Preco Unitario: 4.00, Total: 16.00, Data: 07-11-2024, Hora: 15:55
+Produto: Brocolis, Quantidade: 2, Preco Unitario: 6.00, Total: 12.00, Data: 07-11-2024, Hora: 16:21
+Produto: Alface, Quantidade: 1, Preco Unitario: 2.00, Total: 2.00, Data: 07-11-2024, Hora: 16:21
+Produto: Amendoim, Quantidade: 1, Preco Unitario: 3.00, Total: 3.00, Data: 07-11-2024, Hora: 20:02
+Produto: Ameixa, Quantidade: 12, Preco Unitario: 12.00, Total: 144.00, Data: 07-11-2024, Hora: 20:45Produto: Cenoura, Quantidade: 4, Preco Unitario: 4.00, Total: 16.00, Data: 13-11-2024, Hora: 19:35
+Produto: Manga, Quantidade: 1, Preco Unitario: 5.00, Total: 5.00, Data: 13-11-2024, Hora: 19:36
+Produto: Beterraba, Quantidade: 4, Preco Unitario: 3.20, Total: 12.80, Data: 13-11-2024, Hora: 19:54
+Produto: Alface, Quantidade: 1, Preco Unitario: 2.00, Total: 2.00, Data: 13-11-2024, Hora: 19:59
+Produto: shampoo, Quantidade: 25, Preco Unitario: 7.00, Total: 175.00, Data: 13-11-2024, Hora: 20:10
